@@ -1,6 +1,6 @@
 {
   "name": "nmj_numguessinggame",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a simple command line number guessing game.",
   "main": "index.js",
   "type": "module",
